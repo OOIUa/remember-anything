@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">记了么</string>
+    <string name="jie_se_title">戒了么</string>
+    <string name="jie_se_subtitle">戒色</string>
+    <string name="la_shi_title">拉了么</string>
+    <string name="la_shi_subtitle">拉屎</string>
+    <string name="chou_yan_title">抽了么</string>
+    <string name="chou_yan_subtitle">抽烟</string>
+</resources>
