@@ -2,7 +2,7 @@
 
 一款轻量级的 **Android 日常习惯打卡** 应用：用 **月历** 分别记录 **戒色 / 抽烟 / 拉屎** 三件事，数据保存在本机（Room）。
 
-> 英文：**Jileme** — a minimal habit tracker with per-habit calendars, built with Jetpack Compose.
+> 自律的人命最好，规范自己从我做起，哦耶
 
 ## 功能概览
 
